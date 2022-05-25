@@ -5,7 +5,7 @@ In this project it recognises the face of a person and track attendance in ** Ex
 
 -->Run the file **AttendaceProject.py**
 
-1.Recognisinh the face of Bill gates
+1.Recognising the face of **BILL GATES**
 
 ![Screenshot (78)](https://user-images.githubusercontent.com/85822746/170227331-ad426d9f-6490-4489-8c21-7e7191ea3e55.png)
 
