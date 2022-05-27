@@ -6,12 +6,14 @@ This is a real-time **face recognition project** with **tracking  Attendance** m
 Install python,git,opencv_contrib_python,cv2,cmake,dlib and face recognition library .
 
 **obective-->**
+
 As FaceRecognition deals with the matching of facial features by recognizing face-distance.
 So,in this project it recognises the face of a person and track attendance in ** Excel sheet**
 
 **Working-->**
 
 _step:-
+
 Run the file **AttendaceProject.py**
 
 1.Recognising the face of **BILL GATES**
