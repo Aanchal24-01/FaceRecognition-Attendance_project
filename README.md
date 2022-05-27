@@ -2,7 +2,7 @@
 This is a real-time **face recognition project** with **tracking  Attendance** made **using Python -OpenCv** 
 
 
-**Obective-->**
+**Objective-->**
 
 ->As FaceRecognition deals with the matching of facial features by recognizing face-distance.OpenCV library in Python,
 uses machine learning algorithms to search for faces within a picture. 
