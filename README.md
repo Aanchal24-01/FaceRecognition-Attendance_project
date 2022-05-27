@@ -51,7 +51,7 @@ Now you can run the project by following these steps:-
 5.Images are examined and marked through the function markAttendnace() and their live attendance is marked in a Attendance.csv file time with name and .
 ![markatten](https://user-images.githubusercontent.com/85822746/170772478-823e4261-e0bf-4161-8cf2-2f32b9512214.PNG)
 
-OUTPUT-
+**OUTPUT-**
 ![output](https://user-images.githubusercontent.com/85822746/170772609-cf75c12b-3e9a-4c33-a16b-f639f8e636bc.PNG)
 
 
