@@ -11,7 +11,7 @@ uses machine learning algorithms to search for faces within a picture.
 
 **Prerequirement -->**
 
-1.Install python,git,vscode,OpenCV,cv2,cmake,dlib(according to your python version),Numpy and face recognition library .
+1.Install python,git,vscode,OpenCV_contrib_python,cv2,cmake,dlib(according to your python version),Numpy and face recognition library .
 
 2.It will recognise the face of a person whose image is present in the folder **imagesAttendance (i.e Elon Musk,Indira Gandhi,Mahatma Gandhi,Sundar-Pichai)**
 therefore, if you want to track someone else attendace then fistly feed the image of that person in that folder(imagesAttendance ).
