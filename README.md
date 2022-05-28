@@ -11,10 +11,10 @@ uses machine learning algorithms to search for faces within a picture.
 
 **Prerequirement -->**
 
-1.Install python,git,OpenCV,cv2,cmake,dlib(according to your python version),Numpy and face recognition library .
+1.Install python,git,vscode,OpenCV,cv2,cmake,dlib(according to your python version),Numpy and face recognition library .
 
 2.It will recognise the face of a person whose image is present in the folder **imagesAttendance (i.e Elon Musk,Indira Gandhi,Mahatma Gandhi,Sundar-Pichai)**
-therefore, if you want to track someone else attendace then fistly feed the image of that person in that folder.
+therefore, if you want to track someone else attendace then fistly feed the image of that person in that folder(imagesAttendance ).
 
 **Working -->**
 
@@ -45,10 +45,10 @@ Now you can run the project by following these steps:-
 3.In attendanceProject, firstly, images of the person are imported then encodings of the images are found out by findEncodings() function.
 ![encoding](https://user-images.githubusercontent.com/85822746/170772384-cae15c72-959b-4e9f-9070-4260ba531b34.PNG)
 
-4.After that by accesiing webcam another image is taken with encoding of the second image and then comparision is done
+4.After that by accessing webcam another image is taken with encoding of the second image and then comparision is done
 ![comparison](https://user-images.githubusercontent.com/85822746/170772429-c3d51c8e-40db-4b47-a914-2ae3d2404ca7.PNG)
 
-5.Images are examined and marked through the function markAttendnace() and their live attendance is marked in a Attendance.csv file time with name and .
+5.Images are examined and marked through the function markAttendnace() and their live attendance is marked in a Attendance.csv file with name and time.
 ![markatten](https://user-images.githubusercontent.com/85822746/170772478-823e4261-e0bf-4161-8cf2-2f32b9512214.PNG)
 
 **OUTPUT-**
