@@ -1,5 +1,5 @@
 # FaceRecognition-Attendance_project
-This is a real-time **face recognition project** with **tracking  Attendance** made **using Python -OpenCv** 
+This is a real-time **face recognition project** with **tracking  Attendance** made **using Python -OpenCV** 
 
 
 **Objective-->**
@@ -25,7 +25,7 @@ You can go through the file **basics.py** for the general idea of working of thi
 
 ->firstly I will import the imgaes so that it can get converted into rgb
 
-->secondly I will find the encoding of both the images(first from the folder **imagesAttendance** and second one from the webcam)
+->secondly I will find the encoding of both the images(first from the folder **_imagesAttendance_** and second one from the webcam)
 
 ->thirdly I will campare the encodings of both the image ,if it get matched then it will show "true" with face-distance .
 ![Screenshot (85)](https://user-images.githubusercontent.com/85822746/170771396-d191b150-2a52-49a0-9a74-8a230c69bcac.png)
@@ -36,10 +36,10 @@ You can go through the file **basics.py** for the general idea of working of thi
 
 Now you can run the project by following these steps:-
 
-1.Run the file **AttendaceProject.py**
+1.Run the file **_AttendaceProject.py_**
 ![Screenshot (82)_LI](https://user-images.githubusercontent.com/85822746/170770332-ce8a9611-935f-4e77-b27d-d79766a3ea26.jpg)
 
-2.Show the image of the person (one of the person whose name is present in imageAttendace folder)in the front of webcam.**for example**-Mahatma Gandhi
+2.Show the image of the person (one of the person whose name is present in imageAttendace folder)in the front of webcam.**for example**-_Mahatma Gandhi_
 ![Screenshot (81)](https://user-images.githubusercontent.com/85822746/170769335-99e59faf-aedc-4369-b763-5b9c8d492937.png)
 
 3.In attendanceProject, firstly, images of the person are imported then encodings of the images are found out by findEncodings() function.
@@ -48,13 +48,13 @@ Now you can run the project by following these steps:-
 4.After that by accessing webcam another image is taken with encoding of the second image and then comparision is done
 ![comparison](https://user-images.githubusercontent.com/85822746/170772429-c3d51c8e-40db-4b47-a914-2ae3d2404ca7.PNG)
 
-5.Images are examined and marked through the function markAttendnace() and their live attendance is marked in a Attendance.csv file with name and time.
+5.Images are examined and marked through the function markAttendnace() and their live attendance is marked in a **_Attendance.csv_** file with name and time.
 
 ![markatten](https://user-images.githubusercontent.com/85822746/170772478-823e4261-e0bf-4161-8cf2-2f32b9512214.PNG)
 
 **OUTPUT-**
 ![output](https://user-images.githubusercontent.com/85822746/170772609-cf75c12b-3e9a-4c33-a16b-f639f8e636bc.PNG)
-
+                                                 **** THANK YOU****
 
 
 
