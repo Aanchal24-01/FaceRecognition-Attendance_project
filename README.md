@@ -42,7 +42,7 @@ Now you can run the project by following these steps:-
 2.Show the image of the person (one of the person whose name is present in imageAttendace folder)in the front of webcam.
 
 **For example**-_Mahatma Gandhi_
-![Screenshot (81)](https://user-images.githubusercontent.com/85822746/170769335-99e59faf-aedc-4369-b763-5b9c8d492937.png)
+![Screenshot (90)](https://user-images.githubusercontent.com/85822746/170869057-7c1a8bfa-8e0d-49ef-9698-f1c6932c3c01.png)
 
 3.In attendanceProject, firstly, images of the person are imported then encodings of the images are found out by findEncodings() function.
 ![encoding](https://user-images.githubusercontent.com/85822746/170772384-cae15c72-959b-4e9f-9070-4260ba531b34.PNG)
