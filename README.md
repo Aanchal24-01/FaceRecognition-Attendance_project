@@ -7,18 +7,18 @@ This is a real-time **face recognition project** with **tracking  Attendance** m
 ->As FaceRecognition deals with the matching of facial features by recognizing face-distance.OpenCV library in Python,
 uses machine learning algorithms to search for faces within a picture. 
 
-->So,in this project it recognises the face of a person using webcam and track live attendance in ** Excel sheet**
+->So,in this project it recognises the face of a person using webcam and track live attendance in **** Excel sheet****
 
 **Prerequirement -->**
 
 1.Install python,git,vscode,OpenCV_contrib_python,cv2,cmake,dlib(according to your python version),Numpy and face recognition library .
 
-2.It will recognise the face of a person whose image is present in the folder **imagesAttendance (i.e Elon Musk,Indira Gandhi,Mahatma Gandhi,Sundar-Pichai)**
+2.It will recognise the face of a person whose image is present in the folder **_imagesAttendance_ (i.e Elon Musk,Indira Gandhi,Mahatma Gandhi,Sundar-Pichai)**
 therefore, if you want to track someone else attendace then fistly feed the image of that person in that folder(imagesAttendance ).
 
 **Working -->**
 
-You can go through the file **basics.py** for the general idea of working of this software that is as follow
+You can go through the file **_basics.py_** for the general idea of working of this software that is as follow
 
 -I have divided the project in 3 parts :-_
 ![Screenshot (84)](https://user-images.githubusercontent.com/85822746/170771348-f1287f0a-3228-44c2-afc3-ca64a3f9f8a9.png)
@@ -39,7 +39,9 @@ Now you can run the project by following these steps:-
 1.Run the file **_AttendaceProject.py_**
 ![Screenshot (82)_LI](https://user-images.githubusercontent.com/85822746/170770332-ce8a9611-935f-4e77-b27d-d79766a3ea26.jpg)
 
-2.Show the image of the person (one of the person whose name is present in imageAttendace folder)in the front of webcam.**for example**-_Mahatma Gandhi_
+2.Show the image of the person (one of the person whose name is present in imageAttendace folder)in the front of webcam.
+
+**For example**-_Mahatma Gandhi_
 ![Screenshot (81)](https://user-images.githubusercontent.com/85822746/170769335-99e59faf-aedc-4369-b763-5b9c8d492937.png)
 
 3.In attendanceProject, firstly, images of the person are imported then encodings of the images are found out by findEncodings() function.
@@ -54,7 +56,9 @@ Now you can run the project by following these steps:-
 
 **OUTPUT-**
 ![output](https://user-images.githubusercontent.com/85822746/170772609-cf75c12b-3e9a-4c33-a16b-f639f8e636bc.PNG)
-                                                 **** THANK YOU****
+                                                   
+
+                                                              THANK YOU
 
 
 
