@@ -58,6 +58,8 @@ Now you can run the project by following these steps:-
 ![output](https://user-images.githubusercontent.com/85822746/170772609-cf75c12b-3e9a-4c33-a16b-f639f8e636bc.PNG)
 
 we can also see the tracked attendance in Excel sheet
+![Screenshot (92)](https://user-images.githubusercontent.com/85822746/170869595-e7489539-f98d-4599-a61b-391cfa712c3e.png)
+
 
                                                    
 *****************************************************************************************************************************************************
