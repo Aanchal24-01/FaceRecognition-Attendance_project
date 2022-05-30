@@ -27,7 +27,7 @@ You can go through the file **_basics.py_** for the general idea of working of t
 
 ->secondly I will find the encoding of both the images(first from the folder **_imagesAttendance_** and second one from the webcam)
 
-->thirdly I will campare the encodings of both the image ,if it get matched then it will show "true" with face-distance .
+->thirdly I will campare the encodings of both the image ,if it get matched then it will show "true" with face-distance. 
 ![Screenshot (85)](https://user-images.githubusercontent.com/85822746/170771396-d191b150-2a52-49a0-9a74-8a230c69bcac.png)
 
 ************************************************
